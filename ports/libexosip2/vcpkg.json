@@ -1,0 +1,11 @@
+{
+  "name": "libexosip2",
+  "version": "5.2.0",
+  "description": "eXosip2 - the eXtended osip Library",
+  "homepage": "http://www.antisip.com/doc/exosip2/",
+  "supports": "!(windows & arm)",
+  "dependencies": [
+    "c-ares",
+    "libosip2"
+  ]
+}
